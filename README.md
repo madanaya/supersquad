@@ -1,5 +1,6 @@
 
-Demo: (http://madanaya.github.io/supersquad)
+View Demo Here: (http://madanaya.github.io/supersquad)
+
 ## Available Scripts
 
 In the project directory, you can run:
