@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f20f41508df3f9bde5aa15489d05eec",
+    "revision": "7ade818bc5b8390e4a6ba82d74c617e4",
     "url": "/supersquad/index.html"
   },
   {
