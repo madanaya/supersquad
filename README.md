@@ -1,4 +1,4 @@
-This is a cool application I developed demonstrating the fundamental Redux concepts. It is a cool app to see the strength of the superhero team you build. The app is a static one and is hosted on github pages.
+This is a cool application I developed demonstrating the fundamental Redux concepts. It is a cool app to see the strength of the superhero team you build. This is a static app hosted on github pages.
 
 ## Live Demo
 (http://madanaya.github.io/supersquad)
